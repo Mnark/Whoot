@@ -1,0 +1,9 @@
+{
+    "tamper": 0,
+    "flashlight": 0,
+    "system": {
+        "ram": 97528,
+        "psram": 3491008,
+        "freemem": 3491008
+    }
+}
